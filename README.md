@@ -5,3 +5,4 @@ The third edit in my file
 Changes from GitHub
 
 Added string to the 2nd branch "develop".
+Some changes in develop branch
