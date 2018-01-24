@@ -8,3 +8,4 @@ Added string to the 2nd branch "develop".
 Some changes in develop branch
 
 Another string for develop
+Changes to master
