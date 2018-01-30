@@ -1,0 +1,7 @@
+D:\Gorsky\LabProjects\GarbProj\bin\Debug\GarbProj.exe.config
+D:\Gorsky\LabProjects\GarbProj\bin\Debug\GarbProj.exe
+D:\Gorsky\LabProjects\GarbProj\bin\Debug\GarbProj.pdb
+D:\Gorsky\LabProjects\GarbProj\obj\Debug\GarbProj.csprojResolveAssemblyReference.cache
+D:\Gorsky\LabProjects\GarbProj\obj\Debug\GarbProj.exe
+D:\Gorsky\LabProjects\GarbProj\obj\Debug\GarbProj.pdb
+D:\Gorsky\LabProjects\GarbProj\bin\Debug\Calculator1.dll
